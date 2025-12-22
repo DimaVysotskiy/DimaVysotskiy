@@ -1,8 +1,8 @@
-# Привет, меня зовут Дмитрий 👋
+# Привет, меня зовут Дима 👋
 
 ## Обо мне
 
-Студент 2 курса на направлении "Информационная безопасность автоматизированных систем". Помимо учебы самостоятельно изучаю backend разработку на FastAPI. Знакомство с backend-разработкой началось на практике в РТЛабс на SpringBoot :)
+Backend FastAPI 💚. AI experience --> Local LLMs & API Integration.
 
 **Связаться со мной:** [💬 Telegram](https://t.me/vysotskiy23)
 
@@ -18,9 +18,9 @@
 
 ## 🔧 Инструменты
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-**VS Code** • **Git** • **Postman** • **Docker**
+**VS Code** • **Git** • **Postman** • **Docker** • **Ollama**
 
 ---
 
@@ -34,6 +34,7 @@
 
 ## 📁 Проекты
 
-- **Практика РТЛабс** - [kotouslugi](https://github.com/NataliyaTar/kotouslugi/tree/2025-summer-team-dark-group) (ветка `2025-summer-team-dark-group`)
-- **Хакатон от MAX и VK Education** - [VSUET](https://github.com/dencamenew/VSUET) (трек "Цифровизация вуза")
-- **Pet-project** - [API-for-University](https://github.com/DimaVysotskiy/API-for-University) (улучшенная версия бэка с хакатона)
+- **🐾Практика РТЛабс** - [kotouslugi](https://github.com/NataliyaTar/kotouslugi/tree/2025-summer-team-dark-group) (ветка `2025-summer-team-dark-group`)
+- **🏛Хакатон от MAX и VK Education** - [VSUET](https://github.com/dencamenew/VSUET) (трек "Цифровизация вуза")
+- **🏛Pet-project** - [API-for-University](https://github.com/DimaVysotskiy/API-for-University) (улучшенная версия бэка с хакатона)
+- **🧠Pet-project with Ollama API** -[Testmaker](https://github.com/DimaVysotskiy/testmaker.git)
