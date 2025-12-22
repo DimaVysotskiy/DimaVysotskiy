@@ -2,7 +2,7 @@
 
 ## Обо мне
 
-Backend FastAPI 💚. AI experience --> Local LLMs & API Integration.
+Backend FastAPI 💚. AI experience: Local LLMs & API Integration.
 
 **Связаться со мной:** [💬 Telegram](https://t.me/vysotskiy23)
 
