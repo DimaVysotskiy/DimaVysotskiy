@@ -33,7 +33,7 @@ Backend FastAPI 💚. AI experience: Local LLMs & API Integration.
 ---
 
 ## 📁 Проекты
-
+- **🎨 Кейс с хакатона (IT Purple Hack 2026)** — [Avito](https://github.com/DimaVysotskiy/avito).
 - **🐾Практика РТЛабс** - [kotouslugi](https://github.com/NataliyaTar/kotouslugi/tree/2025-summer-team-dark-group) (ветка `2025-summer-team-dark-group`)
 - **🏛Хакатон от MAX и VK Education** - [VSUET](https://github.com/dencamenew/VSUET) (трек "Цифровизация вуза")
 - **🏛Pet-project** - [API-for-University](https://github.com/DimaVysotskiy/API-for-University) (улучшенная версия бэка с хакатона)
