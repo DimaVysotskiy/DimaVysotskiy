@@ -2,7 +2,7 @@
 
 ## Обо мне
 
-Backend FastAPI 💚. AI experience: Local LLMs & API Integration.
+Backend FastAPI 💚. AI experience: Local LLMs & API Integration & Synthetic dataset collection with subsequent classifier training & Google ADK for building agentic networks and agents.
 
 **Связаться со мной:** [💬 Telegram](https://t.me/vysotskiy23)
 
@@ -18,9 +18,9 @@ Backend FastAPI 💚. AI experience: Local LLMs & API Integration.
 
 ## 🔧 Инструменты
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Google Cloud CLI](https://img.shields.io/badge/Google_Cloud_CLI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**VS Code** • **Git** • **Postman** • **Docker** • **Ollama**
+**VS Code** • **Git** • **Postman** • **Docker** • **Ollama** • **Google Cloud CLI**
 
 ---
 
@@ -33,8 +33,15 @@ Backend FastAPI 💚. AI experience: Local LLMs & API Integration.
 ---
 
 ## 📁 Проекты
-- **🎨 Кейс с хакатона (IT Purple Hack 2026)** — [Avito](https://github.com/DimaVysotskiy/avito).
-- **🐾Практика РТЛабс** - [kotouslugi](https://github.com/NataliyaTar/kotouslugi/tree/2025-summer-team-dark-group) (ветка `2025-summer-team-dark-group`)
-- **🏛Хакатон от MAX и VK Education** - [VSUET](https://github.com/dencamenew/VSUET) (трек "Цифровизация вуза")
-- **🏛Pet-project** - [API-for-University](https://github.com/DimaVysotskiy/API-for-University) (улучшенная версия бэка с хакатона)
-- **🧠Pet-project with Ollama API** -[Testmaker](https://github.com/DimaVysotskiy/testmaker.git)
+
+### 🎓 Практика
+- **Практика РТЛабс** — [kotouslugi](https://github.com/NataliyaTar/kotouslugi/tree/2025-summer-team-dark-group) (ветка `2025-summer-team-dark-group`)
+
+### 🏆 Хакатоны
+- **MTC True Tech Hack 2026** — [MTC](https://github.com/DimaVysotskiy/mws-hack-2026) (трек "GPTHub: единое окно для всех ИИ-задач")
+- **Хакатон от MAX и VK Education** — [VSUET](https://github.com/dencamenew/VSUET) (трек "Цифровизация вуза")
+- **IT Purple Hack 2026** — [Avito](https://github.com/DimaVysotskiy/avito)
+
+### 🧪 Pet-projects
+- **API-for-University** — [репозиторий](https://github.com/DimaVysotskiy/API-for-University) (улучшенная версия бэка с хакатона)
+- **Testmaker with Ollama API** — [репозиторий](https://github.com/DimaVysotskiy/testmaker)
