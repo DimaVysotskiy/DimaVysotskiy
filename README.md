@@ -2,7 +2,7 @@
 
 ## Обо мне
 
-Backend FastAPI 💚. AI experience: Local LLMs & API Integration & Synthetic dataset collection with subsequent classifier training & Google ADK for building agentic networks and agents.
+Junior backend developer. AI experience: Local LLMs & API Integration & Synthetic dataset collection with subsequent classifier training & Google ADK for building agentic networks and agents.
 
 **Связаться со мной:** [💬 Telegram](https://t.me/vysotskiy23)
 
